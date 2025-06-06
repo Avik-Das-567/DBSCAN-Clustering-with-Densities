@@ -22,6 +22,11 @@
 - **Border Point:** Close to a core point but doesn't have enough points.
 - **Noise:** Too far from others, not in any cluster.
 ---
+### Required Python Packages
+- **`scikit-learn`**
+- **`streamlit`**
+- **`numpy`**
+---
 ### Output
 `Labels: [0 0 0 1 1 -1]`
 - First 3 points → Cluster 0 (label **`0`**)
